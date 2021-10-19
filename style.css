@@ -40,9 +40,14 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
-
+.don-style {
+    color: rgb(41, 29, 206);
+    background-color: rgb(253, 249, 249);
+    padding: 3px;
+}
 .dylan-styles {
     color:forestgreen;
     background-color:lightsteelblue;
     padding: 3px;
 }
+
